@@ -1,4 +1,4 @@
-# Teachable-mac<body>
+# Teachable-machine<body>
   <div align="center">
     <h1> Hi there, I'm Marwa👋<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
